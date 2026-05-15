@@ -16,7 +16,7 @@ Instead of just guessing, I built a small solution for it using Streamlit.
 
 ## Live Demo
 
-(https://sandhyav6-cgpa-calculator.streamlit.app/)
+https://sandhyav6-cgpa-calculator.streamlit.app/
 
 ---
 
